@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnedAbek/OUia7rKC+WJmuQAAAAACAAAAAAAQZgAAAAEAACAAAABeSjOQhmqGlf82QpwleUeTWtMPIVrVpYu4L0IAOJn68AAAAAAOgAAAAAIAACAAAADDFarH2XRUdKWN461NjmWTH7rs9BhZ/XWtWXF0qHyf9yAAAAAd0594QVpR18D+9WWJDPRJP7QWbNJEj1xSzhvCXEAQAUAAAAAJPrA/qiJLqQ4PSU2FXIWVBwHFOopufl6yU9mfny1hGCtAL1Q2kRJVfaFeJQJH4UHxrCe7M7hNCrp8pmTCPyiH</EncryptedPassword>
+    <_PublishTargetUrl>ftp://Canteen.somee.com/www.Canteen.somee.com</_PublishTargetUrl>
+    <History>True|2024-05-02T14:28:20.7783611Z;False|2024-05-02T19:57:06.2520620+05:30;True|2024-05-02T19:42:20.9092555+05:30;False|2024-05-02T19:40:28.1197444+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/02/2024 19:06:58</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/02/2024 19:06:58</publishTime>
+    </File>
+    <File Include="Canteen.WebApi.deps.json">
+      <publishTime>05/02/2024 19:57:14</publishTime>
+    </File>
+    <File Include="Canteen.WebApi.dll">
+      <publishTime>05/02/2024 19:57:14</publishTime>
+    </File>
+    <File Include="Canteen.WebApi.exe">
+      <publishTime>05/02/2024 19:57:14</publishTime>
+    </File>
+    <File Include="Canteen.WebApi.pdb">
+      <publishTime>05/02/2024 19:57:14</publishTime>
+    </File>
+    <File Include="Canteen.WebApi.runtimeconfig.json">
+      <publishTime>05/02/2024 19:17:34</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/30/2020 01:44:12</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>01/11/2023 12:18:20</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>01/11/2023 12:18:24</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>01/11/2023 12:19:02</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/02/2024 19:57:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6HzfiQ5s+ALr2SN4mF9QJmFw18XfJwujitJ7xtCcauo=",
+  "Source": "Canteen.WebApi",
+  "BasePath": "_content/Canteen.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

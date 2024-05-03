@@ -1,0 +1,11 @@
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\Canteen.WebApi.exe
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\Canteen.WebApi.dll
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\Canteen.WebApi.deps.json
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\Canteen.WebApi.runtimeconfig.json
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\Canteen.WebApi.pdb
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mandar\C#\Canteen.WebApi\Canteen.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
